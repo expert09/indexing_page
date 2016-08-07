@@ -59,7 +59,7 @@ class IndexPage extends React.Component {
 			<div className='row top-buffer'>
 				<div className='col-xs-5'>
 					<h2 className='title'>
-			  	  		All Teams
+			  	  		All URLs
 			  	  	</h2>
 					<form className='form-inline' onSubmit={this.handleAddPage.bind(this)}>
 						<div className='form-group'>
