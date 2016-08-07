@@ -11,7 +11,7 @@ Fetching elements like heading tags (h1, h2, h3) from homepage url.
 
 # Guide to run api server
 	rake db:migration
-	rails server -p 8000
+	rails server -p 8000	OR	rake server
 
 # Guide to run frontend
 	In frontend folder
